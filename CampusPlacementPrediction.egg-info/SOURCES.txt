@@ -1,0 +1,7 @@
+README.md
+setup.py
+CampusPlacementPrediction.egg-info/PKG-INFO
+CampusPlacementPrediction.egg-info/SOURCES.txt
+CampusPlacementPrediction.egg-info/dependency_links.txt
+CampusPlacementPrediction.egg-info/requires.txt
+CampusPlacementPrediction.egg-info/top_level.txt
