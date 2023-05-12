@@ -1,6 +1,7 @@
-# neurolab-flask
 
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
+
+# Web App
+https://github.com/mohiteyashprogrammer/Campus_PlacementPrediction/assets/114924851/6cc3ae3e-b52a-4f7e-958c-6ce55bf5a5b3
 
 
 To run flask application 
